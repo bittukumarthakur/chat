@@ -1,9 +1,10 @@
 ## to create a client.
-node client.js name;
+[*] node client.js name;
 
 ## how i interact.
-call: friend-name; ==> 
-=> call connected;
+[*]connected to server
+[*]call: friend-name; ==> 
+[*]=> call connected;
 message;
 => friend-name: message;
 messageChunk => {
